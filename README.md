@@ -22,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtávioAugusto&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
-
 ###
 
 <picture>
@@ -31,14 +29,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/,/,/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/,/,/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OCtavius88,&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OCtavius88,&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OCtavius88,&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OCtavius88&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
 ###
 
