@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtávioAugusto&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
+
 ###
 
 <picture>
