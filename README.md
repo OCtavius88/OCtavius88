@@ -44,6 +44,18 @@
 
 ###
 
+
+<div align="center">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCtavius&theme=prussian&layout=compact"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=OCtavius88&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+<br>
+<br>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=,.,&"  />
 </div>
