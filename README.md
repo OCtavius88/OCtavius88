@@ -24,11 +24,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/,/,/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/,/,/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/,/,/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+  <img src="https://github.com/LuizGustavo10/LuizGustavo10/blob/output/github-contribution-grid-snake.svg" />
+</div>
 
 ###
   
