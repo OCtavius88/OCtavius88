@@ -45,11 +45,5 @@
 ###
 
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=,.,&"  />
 </div>
