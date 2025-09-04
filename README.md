@@ -8,6 +8,8 @@
 
 ###
 
+<h3 align="left">Estou constantemente aprendendo</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
