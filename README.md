@@ -42,6 +42,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
+###
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=felipetaua&color=478CCF&style=for-the-badge&label=Bacanudos&abbreviated=true)
 
 ###
 
