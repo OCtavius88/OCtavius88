@@ -1,6 +1,7 @@
 <div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/54/c0/3e/54c03e32134dac515097ca7151a26cf1.gif"  />
+  <img height="center" src="https://i.pinimg.com/originals/54/c0/3e/54c03e32134dac515097ca7151a26cf1.gif"  />
 </div>
+
 
 ###
 
@@ -45,19 +46,4 @@
 </div>
 
 ###
-
-
-<div align="center">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OCtavius&theme=prussian&layout=compact"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=OCtavius88&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-<br>
-<br>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=,.,&"  />
 </div>
