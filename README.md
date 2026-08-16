@@ -1,4 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Otávio+Augusto,+Software+Engineer;Java+and+Data+base+Developer;Based+in+Brazil;Front-end+and+Back-end+Student;Welcome+to+my+workspace!+>:%29)](https://git.io/typing-svg)
+
+#
 
 <div align="right">
   <img height="center" src="https://i.pinimg.com/originals/54/c0/3e/54c03e32134dac515097ca7151a26cf1.gif"  />
@@ -32,8 +36,6 @@
 
 
 
-
-
 ###
 
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
@@ -41,13 +43,6 @@
 </div>
 
 ###
-
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=478CCF&height=120&section=footer"/>
