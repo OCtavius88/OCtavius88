@@ -1,29 +1,38 @@
+
+
 <div align="right">
   <img height="center" src="https://i.pinimg.com/originals/54/c0/3e/54c03e32134dac515097ca7151a26cf1.gif"  />
 </div>
 
+### 🧰 Languages and Tools
 
-###
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left">Hello World!!</p>
+<h3>🔥 Streak Stats</h3>
 
-###
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OCtavius88's streak" height="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=OCtavius88&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
 
-<h3 align="left">Estou constantemente aprendendo</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OCtavius88's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OCtavius88&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OCtavius88's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OCtavius88&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OCtavius88's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=OCtavius88&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
 
 ###
 
@@ -32,12 +41,7 @@
 </div>
 
 ###
-  
-</picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OCtavius88&theme=react-dark)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
-
-###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
