@@ -15,6 +15,7 @@ Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por
 🤖 <b>AI & Innovation:</b> Criação e integração de modelos/agentes de IA<br>
 🎯 <b>Foco:</b> Engenharia de Software, código limpo e soluções de alto impacto.
 
+<a href="mailto:otavi8augusto@gmail.com" target="_blank"><img alt="Gmail Logo" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-augusto-ab138937b/)
 </p>
 
