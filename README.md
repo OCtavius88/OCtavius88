@@ -14,6 +14,8 @@ Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por
 💻 <b>Frontend:</b> React<br>
 🤖 <b>AI & Innovation:</b> Criação e integração de modelos/agentes de IA<br>
 🎯 <b>Foco:</b> Engenharia de Software, código limpo e soluções de alto impacto.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-augusto-ab138937b/)
 </p>
 
 <div align="right">
