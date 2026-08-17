@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e41c2&height=120&section=header"/>
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7201bf&size=35&center=true&vCenter=true&width=1000&lines=+Hello+World;+I'm+Otávio+Augusto,+Software+Engineer;Java+and+Data+base+Developer;Based+in+Brazil;Front-end+and+Back-end+Student;Welcome+to+my+workspace!+>:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=7201BF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Otávio+Augusto,+Software+Engineer;Java+and+Database+Developer;Based+in+Brazil;Front-end+and+Back-end+Student;Welcome+to+my+workspace!)](https://git.io/typing-svg)
 
 #
 
@@ -44,4 +48,16 @@
 ###
 </div>
 
+<div align="center">
+  <img align="center" height="150" src="https://cdn.stickermule.com/core/stores/images/85695bb0-0767-4df9-95b3-8922664e258d_400w_400h.png" />
+</div>
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=OCtavius88&color=8c00ec&style=for-the-badge&label=Visitantes&abbreviated=true)
+  
+<div/>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c00ec&height=120&section=footer"/>
+
+
