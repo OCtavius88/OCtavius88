@@ -6,7 +6,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=7201BF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Otávio+Augusto,+Software+Engineer;Java+and+Database+Developer;Based+in+Brazil;Front-end+and+Back-end+Student;Welcome+to+my+workspace!)](https://git.io/typing-svg)
 
-#
+<p align="justify">
+👋 <b>Sobre mim</b><br><br>
+Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por uma abordagem sólida e tradicional através da literatura técnica. Atualmente, tenho me dedicado ao universo da Inteligência Artificial — incluindo o desenvolvimento da minha própria VTuber IA —, além de atuar em projetos como desenvolvedor <i>freelancer</i>. No momento, estou me aprofundando no ecossistema Spring Boot, SQLite e no desenvolvimento frontend com React.<br><br>
+
+☕ <b> Backend:</b> Java | Spring Boot | SQLite<br>
+💻 <b>Frontend:</b> React<br>
+🤖 <b>AI & Innovation:</b> Criação e integração de modelos/agentes de IA<br>
+🎯 <b>Foco:</b> Engenharia de Software, código limpo e soluções de alto impacto.
+</p>
 
 <div align="right">
   <img height="center" src="https://i.pinimg.com/originals/54/c0/3e/54c03e32134dac515097ca7151a26cf1.gif"  />
