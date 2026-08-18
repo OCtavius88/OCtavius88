@@ -33,6 +33,8 @@ Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por
 
 <h3>🔥 Streak Stats</h3>
 
+
+
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -41,7 +43,7 @@ Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por
     </a>
     
 <h3>💻 GitHub Profile Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OCtavius88's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OCtavius88&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OCtavius88&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2" />
 <a href="https://github.com/OCtavius88">
   <img
     alt="OCtavius88's Top Languages"
