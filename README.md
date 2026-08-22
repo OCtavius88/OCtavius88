@@ -10,8 +10,8 @@
 👋 <b>Sobre mim</b><br><br>
 Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por uma abordagem sólida e tradicional através da literatura técnica. Atualmente, tenho me dedicado ao universo da Inteligência Artificial — incluindo o desenvolvimento da minha própria VTuber IA —, além de atuar em projetos como desenvolvedor <i>freelancer</i>. No momento, estou me aprofundando no ecossistema Spring Boot, SQLite e no desenvolvimento frontend com React.<br><br>
 
-☕ <b> Backend:</b> Java | Spring Boot | SQLite<br>
-💻 <b>Frontend:</b> React<br>
+☕ <b> Backend:</b> Java | Spring Boot | PostgreSQL<br>
+💻 <b>Frontend:</b> React | CSS3 | HTML5 <br>
 🤖 <b>AI & Innovation:</b> Criação e integração de modelos/agentes de IA<br>
 🎯 <b>Foco:</b> Engenharia de Software, código limpo e soluções de alto impacto.
 
@@ -29,7 +29,9 @@ Iniciei meus estudos em Java em 2025 atraído por sua versatilidade, optando por
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <h3>🔥 Streak Stats</h3>
 
